@@ -280,11 +280,15 @@ ICMP discovery cannot prove that a non-responsive host is offline. Firewalls,
 host policies, filtering, routing, or packet loss can prevent Echo Replies.
 
 > **Naming Note**
+>
 > The project's name dates back to the author's high school days, when they were developing a pentesting project for an authorized IT competition. The target was the school's CCTV system, which was physically housed in cabinet 217.
 > The project required scanning large IP ranges, and thus BlUM was created.
 > Coincidentally, 217 is also a Blum integer, named after Manuel Blum: an integer that is the product of two distinct primes, both congruent to 3 modulo 4.
+>
 > 217 = 7 × 31
+>
 > 7 ≡ 3 (mod 4)
+>
 > 31 ≡ 3 (mod 4)
 
 ## Responsible use
